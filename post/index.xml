@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Subhojit Kayal</title>
+    <link>https://Subhojit42.github.io/Subhojit_portfolio/post/</link>
+    <description>Recent content in Projects on Subhojit Kayal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://Subhojit42.github.io/Subhojit_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Classification of Covid-19 Patients</title>
+      <link>https://Subhojit42.github.io/Subhojit_portfolio/post/project-1/</link>
+      <pubDate>Sat, 20 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Subhojit42.github.io/Subhojit_portfolio/post/project-1/</guid>
+      <description>Classification of Covid-19 patients using high dimensional data reduction techniques with plasma proteomics dataset
+The main objective of this project is to find out important proteins to classify Covid-19 patients with plasma proteomics data using high dimensional data reduction techniques. The steps are as follows
+ Data cleaning, structural modifications &amp;amp; missing value treatments. Outlier detection using box-plot, z-score and treatment using IQR. Missing value imputation using KNN, mean, median Normalization using Min-Max scaling, Standardization &amp;amp; Robust scaling.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: : Longitudinal data analysis on respiratory health of children</title>
+      <link>https://Subhojit42.github.io/Subhojit_portfolio/post/project-4/</link>
+      <pubDate>Tue, 19 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Subhojit42.github.io/Subhojit_portfolio/post/project-4/</guid>
+      <description>The main objective of this project is to analyze the respiratory health of children due to maternal smoking behavior. The steps are as follows
+ Fitted a Generalized Linear Model with appropriate link function &amp;amp; diagonal covariance matrix of the errors. Extended the model with the possible structure of correlation &amp;amp; unstructured covariance matrix on the longitudinal data set and Performed hypothesis test based on AIC &amp;amp; BIC to compare the above models.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Stock Price Prediction and Forecasting</title>
+      <link>https://Subhojit42.github.io/Subhojit_portfolio/post/project-2/</link>
+      <pubDate>Sun, 15 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Subhojit42.github.io/Subhojit_portfolio/post/project-2/</guid>
+      <description>Classification of Covid-19 patients using high dimensional data reduction techniques with plasma proteomics dataset
+The main objective of this project is to analyze the stock price data by considering it&amp;rsquo;s various components, fitting a best time series model and forecasting using smoothing methods. The steps are as follows
+ Redesigned data using Downsampling &amp;amp; executed Seasonal decomposition to observe trend, seasonality &amp;amp; noise. Detected Stationarity using ADF test &amp;amp; visualized PACF &amp;amp; ACF to identify AR &amp;amp; MA parameters.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Insurance Claim Prediction</title>
+      <link>https://Subhojit42.github.io/Subhojit_portfolio/post/project-3/</link>
+      <pubDate>Sun, 09 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Subhojit42.github.io/Subhojit_portfolio/post/project-3/</guid>
+      <description>Trained multiple linear regression model &amp;amp; acquired variable selection methods based on Adjusted R2, AIC, BIC. Detected Multicollinearity using Correlation, VIF, Conditional indices &amp;amp; removed it using PCA &amp;amp; Ridge Regression. Analyzed outliers and influential points using Cook’s Distance, DFFITS &amp;amp; DFBETAS Statistics &amp;amp; checked autocorrelation using Durbin-Watson test, Heteroscedasticity using Breusch-Pagan test.   Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project V:| House Price Prediction</title>
+      <link>https://Subhojit42.github.io/Subhojit_portfolio/post/project-5/</link>
+      <pubDate>Wed, 09 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Subhojit42.github.io/Subhojit_portfolio/post/project-5/</guid>
+      <description>Consider a real estate company that has a dataset containing the prices of properties in the delhi region. it wishes to use the data to optimise the sale prices of the properties based on important factors such as area , bedrooms, parking etc. Essentially the company wants-
+ To identify the variables affecting house prices, e.g area , number of rooms, bedrooms e.t.c To create the linear model that quantitatively relates house prices with variables such as number of rooms, area , number of bathrooms etc.</description>
+    </item>
+    
+  </channel>
+</rss>
